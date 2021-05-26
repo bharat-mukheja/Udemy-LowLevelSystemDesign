@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/opt/homebrew/bin/gmake -DCMAKE_C_COMPILER=/opt/homebrew/bin/gcc-11 -DCMAKE_CXX_COMPILER=/opt/homebrew/bin/g++-11 -G "CodeBlocks - Unix Makefiles" "/Users/bmukheja/Google Drive/Study & Job/Udemy - Low Level System Design"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/bmukheja/Google Drive/Study & Job/Udemy - Low Level System Design/cmake-build-debug

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Udemy___Low_Level_System_Design"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/bmukheja/Google Drive/Study &amp; Job/Udemy - Low Level System Design/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/opt/homebrew/bin/gmake -j8 -f &quot;/Users/bmukheja/Google\ Drive/Study\ &amp;\ Job/Udemy\ -\ Low\ Level\ System\ Design/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/opt/homebrew/bin/gmake -j8 -f &quot;/Users/bmukheja/Google\ Drive/Study\ &amp;\ Job/Udemy\ -\ Low\ Level\ System\ Design/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/opt/homebrew/bin/gmake -j8 -f &quot;/Users/bmukheja/Google\ Drive/Study\ &amp;\ Job/Udemy\ -\ Low\ Level\ System\ Design/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/opt/homebrew/bin/gmake -j8 -f &quot;/Users/bmukheja/Google\ Drive/Study\ &amp;\ Job/Udemy\ -\ Low\ Level\ System\ Design/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/bmukheja/Google Drive/Study &amp; Job/Udemy - Low Level System Design/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/opt/homebrew/bin/gmake -j8 -f &quot;/Users/bmukheja/Google\ Drive/Study\ &amp;\ Job/Udemy\ -\ Low\ Level\ System\ Design/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/opt/homebrew/bin/gmake -j8 -f &quot;/Users/bmukheja/Google\ Drive/Study\ &amp;\ Job/Udemy\ -\ Low\ Level\ System\ Design/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/opt/homebrew/bin/gmake -j8 -f &quot;/Users/bmukheja/Google\ Drive/Study\ &amp;\ Job/Udemy\ -\ Low\ Level\ System\ Design/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/opt/homebrew/bin/gmake -j8 -f &quot;/Users/bmukheja/Google\ Drive/Study\ &amp;\ Job/Udemy\ -\ Low\ Level\ System\ Design/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/bmukheja/Google Drive/Study &amp; Job/Udemy - Low Level System Design/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/opt/homebrew/bin/gmake -j8 -f &quot;/Users/bmukheja/Google\ Drive/Study\ &amp;\ Job/Udemy\ -\ Low\ Level\ System\ Design/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/opt/homebrew/bin/gmake -j8 -f &quot;/Users/bmukheja/Google\ Drive/Study\ &amp;\ Job/Udemy\ -\ Low\ Level\ System\ Design/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/opt/homebrew/bin/gmake -j8 -f &quot;/Users/bmukheja/Google\ Drive/Study\ &amp;\ Job/Udemy\ -\ Low\ Level\ System\ Design/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/opt/homebrew/bin/gmake -j8 -f &quot;/Users/bmukheja/Google\ Drive/Study\ &amp;\ Job/Udemy\ -\ Low\ Level\ System\ Design/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Udemy___Low_Level_System_Design">
+				<Option output="/Users/bmukheja/Google Drive/Study &amp; Job/Udemy - Low Level System Design/cmake-build-debug/Udemy___Low_Level_System_Design" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bmukheja/Google Drive/Study &amp; Job/Udemy - Low Level System Design/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.1.0/lib/gcc/11/gcc/aarch64-apple-darwin20/11.1.0/../../../../../../include/c++/11.1.0"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.1.0/lib/gcc/11/gcc/aarch64-apple-darwin20/11.1.0/../../../../../../include/c++/11.1.0/aarch64-apple-darwin20"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.1.0/lib/gcc/11/gcc/aarch64-apple-darwin20/11.1.0/../../../../../../include/c++/11.1.0/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.1.0/lib/gcc/11/gcc/aarch64-apple-darwin20/11.1.0/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.1.0/lib/gcc/11/gcc/aarch64-apple-darwin20/11.1.0/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/opt/homebrew/bin/gmake -j8 -f &quot;/Users/bmukheja/Google\ Drive/Study\ &amp;\ Job/Udemy\ -\ Low\ Level\ System\ Design/cmake-build-debug/Makefile&quot;  VERBOSE=1 Udemy___Low_Level_System_Design"/>
+					<CompileFile command="/opt/homebrew/bin/gmake -j8 -f &quot;/Users/bmukheja/Google\ Drive/Study\ &amp;\ Job/Udemy\ -\ Low\ Level\ System\ Design/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/opt/homebrew/bin/gmake -j8 -f &quot;/Users/bmukheja/Google\ Drive/Study\ &amp;\ Job/Udemy\ -\ Low\ Level\ System\ Design/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/opt/homebrew/bin/gmake -j8 -f &quot;/Users/bmukheja/Google\ Drive/Study\ &amp;\ Job/Udemy\ -\ Low\ Level\ System\ Design/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Udemy___Low_Level_System_Design/fast">
+				<Option output="/Users/bmukheja/Google Drive/Study &amp; Job/Udemy - Low Level System Design/cmake-build-debug/Udemy___Low_Level_System_Design" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bmukheja/Google Drive/Study &amp; Job/Udemy - Low Level System Design/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.1.0/lib/gcc/11/gcc/aarch64-apple-darwin20/11.1.0/../../../../../../include/c++/11.1.0"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.1.0/lib/gcc/11/gcc/aarch64-apple-darwin20/11.1.0/../../../../../../include/c++/11.1.0/aarch64-apple-darwin20"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.1.0/lib/gcc/11/gcc/aarch64-apple-darwin20/11.1.0/../../../../../../include/c++/11.1.0/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.1.0/lib/gcc/11/gcc/aarch64-apple-darwin20/11.1.0/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.1.0/lib/gcc/11/gcc/aarch64-apple-darwin20/11.1.0/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/opt/homebrew/bin/gmake -j8 -f &quot;/Users/bmukheja/Google\ Drive/Study\ &amp;\ Job/Udemy\ -\ Low\ Level\ System\ Design/cmake-build-debug/Makefile&quot;  VERBOSE=1 Udemy___Low_Level_System_Design/fast"/>
+					<CompileFile command="/opt/homebrew/bin/gmake -j8 -f &quot;/Users/bmukheja/Google\ Drive/Study\ &amp;\ Job/Udemy\ -\ Low\ Level\ System\ Design/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/opt/homebrew/bin/gmake -j8 -f &quot;/Users/bmukheja/Google\ Drive/Study\ &amp;\ Job/Udemy\ -\ Low\ Level\ System\ Design/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/opt/homebrew/bin/gmake -j8 -f &quot;/Users/bmukheja/Google\ Drive/Study\ &amp;\ Job/Udemy\ -\ Low\ Level\ System\ Design/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/bmukheja/Google Drive/Study &amp; Job/Udemy - Low Level System Design/Section 2 Basic ride sharing application/RideSharingApp.cpp">
+			<Option target="Udemy___Low_Level_System_Design"/>
+		</Unit>
+		<Unit filename="/Users/bmukheja/Google Drive/Study &amp; Job/Udemy - Low Level System Design/Section 4 Task Planner/Jira.cpp">
+			<Option target="Udemy___Low_Level_System_Design"/>
+		</Unit>
+		<Unit filename="/Users/bmukheja/Google Drive/Study &amp; Job/Udemy - Low Level System Design/Section 4 Task Planner/Jira.h">
+			<Option target="Udemy___Low_Level_System_Design"/>
+		</Unit>
+		<Unit filename="/Users/bmukheja/Google Drive/Study &amp; Job/Udemy - Low Level System Design/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
